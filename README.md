@@ -1,6 +1,6 @@
 # Human-Activity-Recognition-using-Machine-Learning
 
-Machine learning project to classify human activities using sensor-based time-series data with feature engineering and optimized models.
+ML project to classify human activities (walking, sitting, running) using sensor-based time-series data with feature engineering and optimized models.
 
 📌 Overview:
 This project focuses on building a machine learning model to automatically classify human activities such as walking, sitting, and running using sensor-based time-series data from accelerometer and gyroscope signals. The system aims to enable intelligent activity tracking for real-world applications like fitness monitoring and wearable devices.
